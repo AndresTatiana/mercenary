@@ -8,7 +8,7 @@ package mercenary;
 import java.util.Scanner;
 
 /**
- *
+ *HOLA ANDRES 
  * @author David
  */
 public class Mercenary {
